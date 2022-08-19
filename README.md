@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Pedro Gabriel 👋
 
-- 🌱 Atualmente estou estudando Back-end (NODE JS e Spring)
-
 ## Skills
 
 <ul>
@@ -9,6 +7,10 @@
   <li> JavaScript </li>
   <li> JAVA </li>
 </ul>
+
+## O que estou estudando atualmente
+
+No momento estou aprofundando meus conhecimento em HTML, CSS e JavaScript
 
 ## Contato
 
