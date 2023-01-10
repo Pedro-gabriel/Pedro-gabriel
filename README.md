@@ -10,7 +10,7 @@
 
 ## O que estou estudando atualmente
 
-No momento estou aprofundando meus conhecimento em HTML, CSS e JavaScript
+No momento estou estudando node.js, CSS Sass. e CSS responsivo.
 
 ## Contato
 
