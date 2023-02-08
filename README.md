@@ -1,12 +1,14 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## Olá! Eu sou o Pedro Gabriel 👋
 
 <h2>Sobre mim</h2>
 <hl>
   <p>Olá, meu nome é Pedro Gabriel e sou estudante de Sistemas de Informação. Atualmente, estou no 9º semestre do curso e estou me aproximando da conclusão.
      Entre minhas habilidades técnicas, destaco o conhecimento em linguagens de programação como Java e JavaScript. Além disso, tenho facilidade em trabalhar em equipe e sou bom em resolver problemas.</p>
-  
+    
 ## Skills
-
+<div style="display: flex;">
 <h4> Linguagem </h4>
   <div style="display: flex;">
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50px">
@@ -23,8 +25,13 @@
   <div style="display: flex;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50px">
   </div>
-
-  ## Contato
+    </div>
+  <br>
+  <div>
+  <img float="right" src="https://github-readme-stats.vercel.app/api?username=Pedro-gabriel&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+  </div>
+  </div>
+    <h1> Contato </h1>
 <div>
   <p align="left">
   <a href="pedro.temoteo93@gmail.ocm" alt="Gmail">
